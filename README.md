@@ -2,7 +2,7 @@
 
 ### Link
 
-Portifólio disponivel no link: https://giovaneverbinnen.github.io/portifolio/
+Portifólio disponivel no link: giovane.dev
 
 ### Home
 
