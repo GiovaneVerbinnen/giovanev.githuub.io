@@ -2,7 +2,7 @@
 
 ### Link
 
-Portifólio disponivel no link: giovane.dev
+Portifólio disponivel no link: https://www.giovane.dev/
 
 ### Home
 
